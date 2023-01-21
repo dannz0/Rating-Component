@@ -1,0 +1,17 @@
+@media (max-width: calc(375em / 16)) {
+  .container,
+  .overlay-main,
+  .overlay-thankyou {
+    min-width: calc(330rem / 16);
+  }
+
+  .btn--num {
+    height: calc(40rem / 16);
+    width: calc(40rem / 16);
+  }
+
+  .btn--submit {
+    height: calc(44rem / 16);
+    width: 100%;
+  }
+}
