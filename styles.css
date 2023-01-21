@@ -81,6 +81,7 @@ body {
 .main-paragraph {
   font-size: calc(15rem / 16);
   font-weight: 400;
+  line-height: 1.6;
   color: hsl(217, 12%, 63%);
 }
 
@@ -165,6 +166,7 @@ body {
 .paragraph-sub {
   font-size: calc(15rem / 16);
   font-weight: 400;
+  line-height: 1.6;
   color: hsl(217, 12%, 63%);
   text-align: center;
 }
