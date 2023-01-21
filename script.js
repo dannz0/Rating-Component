@@ -5,7 +5,6 @@ class App {
   _mainOverlay = document.querySelector('.overlay-main');
   _subOverlay = document.querySelector('.overlay-thankyou');
   _messageEl = document.querySelector('.text-selected');
-  _target;
 
   constructor() {
     this._parentEl.addEventListener('click', this._selectBtn.bind(this));
