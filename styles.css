@@ -120,6 +120,7 @@ body {
 
 .btn--num:hover {
   background-color: hsl(25, 97%, 53%) !important;
+  color: #fff !important;
 }
 
 .btn--submit:hover {

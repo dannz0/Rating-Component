@@ -24,12 +24,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Default state](images/screenshot.png)
+![Interaction state](images/screenshot2.png)
+![Thank you message state](images/screenshot3.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub solution](https://github.com/dannz0/Rating-Component)
+- Live Site URL: [Netlify live version](https://your-live-site-url.com)
 
 ## My process
 
