@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub solution](https://github.com/dannz0/Rating-Component)
-- Live Site URL: [Netlify live version](https://your-live-site-url.com)
+- Live Site URL: [Netlify live version](https://rating-comp-dannz.netlify.app/)
 
 ## My process
 
