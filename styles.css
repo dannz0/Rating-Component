@@ -86,8 +86,10 @@ body {
 }
 
 .rating-box {
+  max-width: calc(350rem / 16);
   display: grid;
   grid-template-columns: repeat(5, 1fr);
+  justify-content: center;
   gap: calc(24rem / 16);
 }
 

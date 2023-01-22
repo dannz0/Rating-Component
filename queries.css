@@ -14,4 +14,8 @@
     height: calc(44rem / 16);
     width: 100%;
   }
+
+  .rating-box {
+    max-width: calc(280rem / 16);
+  }
 }
